@@ -34,7 +34,7 @@ The dataset contains credit card transaction details, including:
 ## 🚀 How to Run the Project  
  **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   https://github.com/PIYUSH-BAMNIA-25/credit-card-fraud-detection
    cd credit-card-fraud-detection
  ```
  **Install Dependencies**
