@@ -8,7 +8,7 @@ The dataset is highly **imbalanced**, so techniques like **class weighting & fea
 
 ### 📥 Download the Dataset  
 The dataset is too large to upload to GitHub. You can download it from Kaggle using the following link:  
-🔗 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection))  
+🔗 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 After downloading, place the CSV files in the project folder and update the file paths accordingly. 
 
