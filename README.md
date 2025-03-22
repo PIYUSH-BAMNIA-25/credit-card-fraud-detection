@@ -37,10 +37,6 @@ The dataset contains credit card transaction details, including:
    https://github.com/PIYUSH-BAMNIA-25/credit-card-fraud-detection
    cd credit-card-fraud-detection
  ```
- **Install Dependencies**
- ```bash
-pip install -r requirements.txt
-```
 **Run the Jupyter Notebook**
 - Open Credit Card Fraud Detection.ipynb in Google Colab or Jupyter Notebook.
 
