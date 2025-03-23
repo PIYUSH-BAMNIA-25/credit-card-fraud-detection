@@ -51,7 +51,7 @@ The dataset is too large to be included in the repository. You can download it f
 ### 🛠️ Running the Project
 **Clone the repository:**  
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+https://github.com/PIYUSH-BAMNIA-25/credit-card-fraud-detection
 cd credit-card-fraud-detection
 ```
 
@@ -69,19 +69,7 @@ Due to size limitations, the trained model file (`credit_fraud_model.pkl`) is no
 - **Option 1:** Train the model yourself using the notebook.
 - **Option 2:** Download the pre-trained model from Google Drive:
   🔗 [Download Model](https://drive.google.com/file/d/1VcuzpwXDWcZdNRdwULXM0Yf6kfhinw-P/view?usp=sharing)  
-### 🔹 *Clone the Repository*  
-```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-```
 
-### 🔹 *Install Dependencies*  
-```bash
-pip install -r requirements.txt
-```
-
-### 🔹 *Run the Jupyter Notebook*  
-Open `Credit Card Fraud Detection.ipynb` in **Google Colab** or Jupyter Notebook.  
 
 ## 💡 Future Improvements  
 - 🔹 **Use XGBoost** → *Further optimize fraud detection*  
