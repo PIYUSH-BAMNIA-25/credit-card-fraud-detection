@@ -44,5 +44,10 @@ pip install -r requirements.txt
 **Run the Jupyter Notebook**
 - Open Credit Card Fraud Detection.ipynb in Google Colab or Jupyter Notebook.
 
+### 📥 Download Pre-Trained Model  
+The trained model (`credit_fraud_model.pkl`) is too large for GitHub.  
+You can download it from **Google Drive**:  
+🔗 [Download Model](https://drive.google.com/file/d/1VcuzpwXDWcZdNRdwULXM0Yf6kfhinw-P/view?usp=sharing)
+
 ## Future Improvements
 - 🔹 Deploy the model → Create an API for real-time fraud detection
